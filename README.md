@@ -1,6 +1,6 @@
 # 🚀 AWS Continuous Integration Demo
 
-This guide walks you through setting up a complete CI pipeline using **GitHub**, **AWS CodePipeline**, and **AWS CodeBuild** for a Python application.
+This guide walks you through setting up a complete CI pipeline using **GitHub**, **AWS CodePipeline**, and **AWS CodeBuild** for a Python application. 
 
 ---
 
@@ -71,5 +71,5 @@ Let’s see the pipeline in action by pushing a code change.
 
 ---
 
-## 🎉 You're All Set!
+## 🎉 You're All Set! -ref abhishek veeramalla
 
